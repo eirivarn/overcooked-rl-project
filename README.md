@@ -1,4 +1,4 @@
-# Overcooked RL Project ��‍🍳🤖
+# Overcooked RL Project
 
 This repository contains my mini-project for the *Autonomous and Adaptive Systems* course at UNIBO.  
 The project explores Reinforcement Learning techniques in the [Overcooked-AI](https://github.com/HumanCompatibleAI/overcooked_ai) environment.
